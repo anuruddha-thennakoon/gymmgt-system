@@ -1,1 +1,1 @@
-## gym and sport management desktop appliacation
+## gym and sport management desktop application
