@@ -1,6 +1,6 @@
 # Gym Management System
 
-One Paragraph of project description goes here
+This is a sample gym management software gives you an all-in-one place to manage memberships, manage inventory,manage plans and make all admin easy.
 
 ## Getting Started
 
@@ -43,8 +43,3 @@ Use "admin" for both username and password in initial login
 ![Home](https://hyldsg.dm.files.1drv.com/y4mLrFDUAckkfsqMOGN0KrXsI_0rMmp202RgdGyHoapgCXYL2otJCH2sT2RQnQJuaBcWZIaR0RXG5scXUCDG592MEj4debcHHpDg4CQOuXtpQvv82hssgf6IwT8X7KWjOqtxgtLQqQKOSjbjLXaUvopuRK-guTzsyR0xO5A5g8SkoF69QswyHXytIxb8sfMQZCJPtBzjF5dLpva5CTfcM9GEg?width=1366&height=728&cropmode=none)
 ![CRSub](https://hyjcpg.dm.files.1drv.com/y4mYOWH5eo2f9rbnhd3U2lgcroCeaPF3dihXRMRrJpqi1JCqdS3HkfRG5f1-ub89LjeXSU4DkWEluH53HGmvUaQuTEyavDoZidsPhd9BOx9HEX_cFjnCZauD-t2rS9bGJ7-UJKWnNqxod_xdpbzfAtq8JFMMB33wLgQh7fZgptyKr75HLtBAXnlG3AXW6beg0xvVov1l2mCJME987iTD48GiA?width=1366&height=728&cropmode=none)
 ![CR](https://hyjqbg.dm.files.1drv.com/y4muie7QxNBmaCtGW_AyzFcvA06tfhKER0EYc7bFQJNSQt44Ffvg3BAKQn0NCXqD2zLfRfC0Ggpnqqjzmspk5XanwBFaE8lRRJBzGW-PW5whkcdwdT_8MHJHn3xu6yW6_ZKQFlL335xmbKUtCY4PBwEMjr4elW4GYCEwuSMdUCEMBFQYnItk3cy8VOWQ74iNDgMCWtb5n-h80RuVMRlP2TZ0Q?width=1366&height=728&cropmode=none)
-
-
-
-
-
