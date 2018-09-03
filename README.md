@@ -26,8 +26,11 @@ public static String planA = "./PlanA.jrxml";
 public static String planB = "./PlanB.jrxml";
 public static String planC = "./PlanC.jrxml";
 ```
+* Restore gymmgt.sql using any tool or cmd.yoy can use following command if you are using cmd.
+```
+[mysql dir]/bin/mysql -u username -ppassword databasename < /database/gymmgt.sql
+```
 * Clean and build the project
-
 ## Running the application
 
 Run the gymmgt-app.jar file in gymmgt-app\dist using following command
